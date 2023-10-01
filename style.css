@@ -5,7 +5,7 @@
 }   
 
 body{
-    background:linear-gradient(rgba(0, 0, 0, 0.836),rgba(0, 0, 0, 0.83)),url("main-bg.jpg");
+     background-color: #0e5587;
     background-size: cover;
 }
 
@@ -88,7 +88,7 @@ h2{
 
 @media screen and (max-width:300px){
     body{
-        background:linear-gradient(rgba(0, 0, 0, 0.836),rgba(0, 0, 0, 0.83)),url("main-bg.jpg");
+        background-color: #0e5587;
         background-size: cover;
         background-position: center;
         
