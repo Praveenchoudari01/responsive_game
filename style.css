@@ -94,58 +94,63 @@ h2{
         
     }
     h1{
-        font-size: 30px;
-        padding-top: 20px;
-        padding-left: 65px;
-        width: 350px;
+        font-size: 25px;
+        width: 500px;
+        transform: translate(-5px,-15px);
     }
     h2{
         text-align: center;
-        padding-top: 35px;
-        padding-left: 45px;
-        font-size: 35px;
+        padding-left: 35px;
+        transform: translate(0px,-15px);
+        font-size: 25px;
         width: 400px;
     }
     .robo{
-        font-size: 40px;
+        font-size: 30px;
         text-transform: uppercase;
-        padding-top: 10px;
-        transform: translate(130px,-120px);
+        text-decoration: underline;
+        transform: translate(160px,-180px);
     }
 
     #robo_img{
         height: 150px;
-        transform: translate(170px,-140px);
+        transform: translate(170px,-210px);
     }
 
     #msg{
-        padding-left: -35px;
         font-size: 20px;
-        transform: translate(15px,130px);
+        transform: translate(-10px,20px);
     }
 
     .user{
-        font-size: 45px;
+        font-size: 30px;
         text-transform: uppercase;
-        transform: translate(-30px,200px);
+        text-decoration: underline;
+        transform: translate(30px,70px);
 
     }
 
     #user_img{
         height: 180px;
-        transform: translate(-60px,200px);
+        transform: translate(-20px,65px);
 
     }
 
     #number_input{
-        transform: translate(-60px,200px);
+        transform: translate(-15px,60px);
 
     }
 
     #submit{
-        height: 40px;
+        height: 25px;
         width: 50px;
-        transform: translate(-178px,250px);
+        transform: translate(-138px,95px);
+    }
+    .underline{
+        background-color: rgb(255, 255, 255);
+        width: 310px;
+        height: 0.5px;
+        transform: translate(80px,-6px);
     }
 
 }
