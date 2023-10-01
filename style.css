@@ -91,7 +91,7 @@ h2{
         background-color: #0e5587;
     }
     h1{
-        font-size: 15px;
+        font-size: 25px;
         width: 500px;
         transform: translate(-5px,-15px);
     }
@@ -141,7 +141,7 @@ h2{
     #submit{
         height: 25px;
         width: 50px;
-        transform: translate(4    8px,95px);
+        transform: translate(48px,95px);
     }
     .underline{
         background-color: rgb(255, 255, 255);
