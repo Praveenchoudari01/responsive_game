@@ -86,7 +86,7 @@ h2{
     
 }
 
-@media screen and (max-width:300px){
+@media screen and (max-width:480px){
     body{
         background-color: #0e5587;
         background-size: cover;
